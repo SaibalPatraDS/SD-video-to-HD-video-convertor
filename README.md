@@ -17,5 +17,6 @@ git clone https://github.com/xinntao/ESRGAN
 cd ESRGAN
 ```
 
-Next Step, ```Make sure to change the `input_video_path` and `output_video_path` as per convenience.```
-Finally Run, ```python test.py``` file.
+Next Step, ```Make sure to change the `input_video_path` and `output_video_path` as per convenience in sample_file.py```
+
+Finally Run, ```python sample_file.py``` file.
